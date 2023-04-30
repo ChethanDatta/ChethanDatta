@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChethanDatta
-- 👀 I’m interested in Cybersecurity
+- I’m interested in Cybersecurity
 
 <!---
 ChethanDatta/ChethanDatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
